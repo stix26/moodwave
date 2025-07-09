@@ -15,15 +15,20 @@ A beautiful Flutter mood tracking application built with Stacked architecture, f
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Prerequisites](#prerequisites)
-- [Complete Setup Guide](#complete-setup-guide)
-- [Asset and Icon Replacement](#asset-and-icon-replacement)
-- [Dependency Management](#dependency-management)
-- [Localization Setup](#localization-setup)
-- [Running the Application](#running-the-application)
-- [Troubleshooting](#troubleshooting)
-- [Project Structure](#project-structure)
+- [🎯 Overview](#-overview)
+- [🛠️ Prerequisites](#️-prerequisites)
+- [🚀 Complete Setup Guide](#-complete-setup-guide)
+- [🎨 Asset and Icon Replacement](#-asset-and-icon-replacement)
+- [📦 Dependency Management](#-dependency-management)
+- [🌍 Localization Setup](#-localization-setup)
+- [🏃‍♂️ Running the Application](#️-running-the-application)
+- [🔧 Troubleshooting](#-troubleshooting)
+- [📁 Project Structure](#-project-structure)
+- [🎯 Quick Start Summary](#-quick-start-summary)
+- [🌟 Features Implemented](#-features-implemented)
+- [📝 Development Notes](#-development-notes)
+- [🤝 Contributing](#-contributing)
+- [📄 License](#-license)
 
 ---
 
